@@ -1,19 +1,37 @@
 # ERLAVO SASS POS Frontend
 
-## Instalasi
-1. Clone repository ini
+## Instalasi dan Start Development
+Clone repository:
 ```bash
 git clone https://github.com/Erlavo/pos-fe.git
 ```
-2. Masuk ke direktori projek
+Pindah ke direktori project:
 ```bash
 cd pos-fe
 ```
-3. Install dependencies
+Install dependencies:
 ```bash
 npm install
 ```
-4. Jalankan projek
+Start development:
 ```bash
 npm run dev
+```
+
+## Testing
+Untuk melakukan testing, jalankan perintah berikut di terminal:
+```bash
+npm run test
+```
+
+## Linting
+Untuk melakukan linting, jalankan perintah berikut di terminal:
+```bash
+npm run lint
+```
+
+## Formating
+Untuk melakukan formating, jalankan perintah berikut di terminal:
+```bash
+npm run format
 ```
