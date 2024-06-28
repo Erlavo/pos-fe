@@ -1,21 +1,11 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
-  <div class="container">
-    <h1>Vue 3 + Vite + Tailwind CSS</h1>
+  <div>
+    <button class="btn btn-primary">One</button>
+    <button class="btn btn-secondary">Two</button>
+    <button class="btn btn-accent btn-outline">Three</button>
   </div>
 </template>
 
-<style scoped>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  h1 {
-    font-size: 2rem;
-  }
-</style>
+<style scoped></style>
